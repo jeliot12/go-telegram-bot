@@ -7,7 +7,7 @@ import (
 	"github.com/jeliot12/psychologyBot/pkg/telegram"
 )
 
-const TOKEN = "5943751223:AAFI0mCi7nJbteC6vS5BFd98b7lEf-CRJ-0"
+const TOKEN = "token"
 
 func main() {
 	bot, err := tgbotapi.NewBotAPI(TOKEN)
